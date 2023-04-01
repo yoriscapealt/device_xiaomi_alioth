@@ -1,6 +1,5 @@
 #
 # Copyright (C) 2021-2022 The LineageOS Project
-# Copyright (C) 2022-2023 VoidUI Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #

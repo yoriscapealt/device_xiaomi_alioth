@@ -1,6 +1,5 @@
 #
 # Copyright (C) 2021 The LineageOS Project
-# Copyright (C) 2022-2023 VoidUI Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -30,6 +29,3 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_INCLUDE_LIVE_WALLPAPERS := true
 TARGET_SUPPORTS_QUICK_TAP  := true
 
-# VoidUI Maintainer Flags
-VOID_MAINTAINER := johnmart19
-CUSTOM_BUILD_TYPE := OFFICIAL
